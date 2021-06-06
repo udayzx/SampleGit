@@ -1,0 +1,26 @@
+1071  git init 
+ 1072  git remote add origin https://github.com/udayzx/SampleGit
+ 1073  git pull 
+ 1074  ls -altrh
+ 1075  git clone
+ 1076  git clone master
+ 1077  git clone origin
+ 1078  git clone https://github.com/udayzx/SampleGit
+ 1079  ls -altrh
+ 1080  cd SampleGit/
+ 1081  ls -altrh
+ 1082  cp index4.html index6.html
+ 1083  ls -altrh
+ 1084  git add .
+ 1085  git commit -m "new index6.html"
+ 1086   git config --global --edit
+ 1087  git commit -m "new index6.html"
+ 1088  git branch 
+ 1089  git branch NewBranch2
+ 1090  git checkout NewBranch2 
+ 1091  git add .
+ 1092  git commit -m "new index6.html"
+ 1093  git push .
+ 1094  git push origin NewBranch2 
+ 1095  history
+
